@@ -10,6 +10,7 @@ Link do Projeto:
 https://teachablemachine.withgoogle.com/models/7x7YSAFf_/
 
 
-*Reflexão Final*
+*Reflexão Final:*
+
 Não. Acredito que o meu modelo não tenha cometido erros durante o teste devido a grande quantidade de capturas de imagens realizadas por mim. 
 Os meus testes nao tiveram erros, mas com certeza a grande quantidade de exemplos em cada classe alterando o ângulo do rosto e a iluminação ajudaram.
